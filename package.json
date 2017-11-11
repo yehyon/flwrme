@@ -1,0 +1,25 @@
+{
+  "name": "flwrme",
+  "version": "1.0.0",
+  "description": "the place where beautiful weird thing exist",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehyon/flwrme.git"
+  },
+  "keywords": [
+    "flwr",
+    "flower"
+  ],
+  "author": "yehyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehyon/flwrme/issues"
+  },
+  "homepage": "https://github.com/yehyon/flwrme#readme"
+}
